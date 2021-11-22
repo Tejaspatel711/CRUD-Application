@@ -1,7 +1,7 @@
-# CRUD-Application
-Student Name: Patel Tejaskumar Vijaykumar
-Student Roll_no: A07
-Student Reg_no: 11802236
-Email Address: tejasvpatel711@gmail.com
-GitHub Link:  https://github.com/Tejaspatel711/CRUD-Application
-Section: KM084
+# CRUD-Application<br>
+Student Name: Patel Tejaskumar Vijaykumar <br>
+Student Roll_no: A07<br>
+Student Reg_no: 11802236<br>
+Email Address: tejasvpatel711@gmail.com<br>
+GitHub Link:  https://github.com/Tejaspatel711/CRUD-Application<br>
+Section: KM084<br>
